@@ -1,0 +1,28 @@
+--[[
+elseif plr.UserId == robloxuserid then -- robloxusername
+ shared.DiscordID = "discordid"
+]]
+local plr = game.Players.LocalPlayer
+if plr.UserId == 1379334174 then -- egoD
+ shared.DiscordID = "386451729182359552"
+elseif plr.UserId == 525412970 then -- evanniel
+ shared.DiscordID = "786421244215820319"
+elseif plr.UserId == 1211609808 then -- Duchy_SoCute
+ shared.DiscordID = "363987510419914752"
+elseif plr.UserId == 115613170 then -- GamingPrOStuFF
+ shared.DiscordID = "326190061924122624"
+elseif plr.UserId == 174647735 then -- Sky_Ster09
+ shared.DiscordID = "791684118576234506"
+elseif plr.UserId == 2061101516 then -- TakeshiViper
+ shared.DiscordID = "674430122526507019"
+elseif plr.UserId == 1880652069 then -- TKpobparit
+ shared.DiscordID = "404130278655787009"
+elseif plr.UserId == 1709895299 then -- IdiJr122
+ shared.DiscordID = "767236532842397717"
+elseif plr.UserId == 1601176257 then -- RedHatexe
+ shared.DiscordID = "563861315412688897"
+elseif plr.UserId == 1819064611 then -- juicewrldandxweregod
+ shared.DiscordID = "669229125893881866"
+elseif plr.UserId == 2246870857 then -- WoimyaGANDONA
+ shared.DiscordID = "693577528077451264"
+end
