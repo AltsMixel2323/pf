@@ -1,28 +1,30 @@
 --[[
-elseif plr.UserId == robloxuserid then -- robloxusername
+elseif plr.UserId == robloxuserid or plr.Name == "robloxusername" then
  shared.DiscordID = "discordid"
 ]]
 local plr = game.Players.LocalPlayer
-if plr.UserId == 1379334174 then -- egoD
+if plr.UserId == 1379334174 or plr.Name == "ego_D" then
  shared.DiscordID = "386451729182359552"
-elseif plr.UserId == 525412970 then -- evanniel
+elseif plr.UserId == 525412970 or plr.Name == "evanniel" then
  shared.DiscordID = "786421244215820319"
-elseif plr.UserId == 1211609808 then -- Duchy_SoCute
+elseif plr.UserId == 1211609808 or plr.Name == "Duchy_SoCute" then 
  shared.DiscordID = "363987510419914752"
-elseif plr.UserId == 115613170 then -- GamingPrOStuFF
+elseif plr.UserId == 115613170 or plr.Name == "GamingPrOStuFF" then
  shared.DiscordID = "326190061924122624"
-elseif plr.UserId == 174647735 then -- Sky_Ster09
+elseif plr.UserId == 174647735 or plr.Name == "Sky_Ster09" then
  shared.DiscordID = "791684118576234506"
-elseif plr.UserId == 2061101516 then -- TakeshiViper
+elseif plr.UserId == 2061101516 or plr.Name == "TakeshiViper" then
  shared.DiscordID = "674430122526507019"
-elseif plr.UserId == 1880652069 then -- TKpobparit
+elseif plr.UserId == 1880652069 or plr.Name == "TKpobparit" then
  shared.DiscordID = "404130278655787009"
-elseif plr.UserId == 1709895299 then -- IdiJr122
+elseif plr.UserId == 1709895299 or plr.Name == "IdiJr122" then
  shared.DiscordID = "767236532842397717"
-elseif plr.UserId == 1601176257 then -- RedHatexe
+elseif plr.UserId == 1601176257 or plr.Name == "RedHatexe" then
  shared.DiscordID = "563861315412688897"
-elseif plr.UserId == 1819064611 then -- juicewrldandxweregod
+elseif plr.UserId == 1819064611 or plr.Name == "juicewrldandxweregod" then
  shared.DiscordID = "669229125893881866"
-elseif plr.UserId == 2246870857 then -- WoimyaGANDONA
+elseif plr.UserId == 2246870857 or plr.Name == "WoimyaGANDONA" then
  shared.DiscordID = "693577528077451264"
+elseif plr.UserId == 282667361 or plr.Name == "fakepro123456789" then
+ shared.DiscordID = "349439988796096512"
 end
