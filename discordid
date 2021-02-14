@@ -3,7 +3,7 @@ elseif plr.UserId == robloxuserid or plr.Name == "robloxusername" then
  shared.DiscordID = "discordid"
 ]]
 local plr = game.Players.LocalPlayer
-if plr.UserId == 1379334174 or plr.Name == "ego_D" then
+if plr.UserId == 647321434 or plr.Name == "MrNooB_TM" then
  shared.DiscordID = "386451729182359552"
 elseif plr.UserId == 388200318 or plr.Name == "tranminhtruon" then
  shared.DiscordID = "607091817657139202"
