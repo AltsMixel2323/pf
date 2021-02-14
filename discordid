@@ -29,4 +29,6 @@ elseif plr.UserId == 282667361 or plr.Name == "fakepro123456789" then
  shared.DiscordID = "349439988796096512"
 elseif plr.UserId == 167981557 or plr.Name == "Legxxnd" then -- nitro
  shared.DiscordID = "275377954014363669"
+elseif plr.UserId == 388200318 or plr.Name == "tranminhtruon" then
+ shared.DiscordID = "607091817657139202"
 end
