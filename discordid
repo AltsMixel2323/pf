@@ -7,6 +7,6 @@ if plr.UserId == 647321434 or plr.Name == "MrNooB_TM" then
  shared.DiscordID = "386451729182359552"
 elseif plr.UserId == 388200318 or plr.Name == "tranminhtruon" then
  shared.DiscordID = "607091817657139202"
-elseif plr.UserId == 16942135 or plr.Name == "Theravenofdeath" then
+elseif plr.UserId == 1379304239 or plr.Name == "anhhuy0399" then
  shared.DiscordID = "606712075343101952"
 end
